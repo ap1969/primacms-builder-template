@@ -1,5 +1,5 @@
 ---
-title: 'Introducing Our Integration Marketplace'
+title: 'Sample Post: Introducing Our Integration Marketplace'
 excerpt: 'Connect your favorite tools and services with our new integration marketplace featuring over 50 partners.'
 date: 'February 18, 2025'
 author: 'Robert Kim'

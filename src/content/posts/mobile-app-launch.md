@@ -1,5 +1,5 @@
 ---
-title: 'Introducing Our Mobile App'
+title: 'Sample Post: Introducing Our Mobile App'
 excerpt: 'Access your workspace from anywhere with our new mobile app, now available for iOS and Android devices.'
 date: 'April 28, 2025'
 author: 'Michael Chen'

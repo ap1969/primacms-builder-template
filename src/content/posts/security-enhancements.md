@@ -1,5 +1,5 @@
 ---
-title: 'Security Enhancements and Compliance Updates'
+title: 'Sample Post: Security Enhancements and Compliance Updates'
 excerpt: "We've strengthened our security measures and added new compliance certifications to keep your data safe."
 date: 'March 5, 2025'
 author: 'Jessica Lee'

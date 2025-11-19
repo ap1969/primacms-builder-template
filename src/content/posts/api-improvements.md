@@ -1,5 +1,5 @@
 ---
-title: 'API Improvements and New Endpoints'
+title: 'Sample Post: API Improvements and New Endpoints'
 excerpt: "We've expanded our API capabilities with new endpoints and improved documentation for developers."
 date: 'April 10, 2025'
 author: 'Emily Rodriguez'

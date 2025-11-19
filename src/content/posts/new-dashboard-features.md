@@ -1,5 +1,5 @@
 ---
-title: 'New Dashboard Features Released'
+title: 'Sample Post: New Dashboard Features Released'
 excerpt: "We've added powerful new analytics tools to help you gain deeper insights into your business performance."
 date: 'May 15, 2025'
 author: 'Sarah Johnson'

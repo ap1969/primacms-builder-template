@@ -1,5 +1,5 @@
 ---
-title: 'Enhanced Team Collaboration Tools'
+title: 'Sample Post: Enhanced Team Collaboration Tools'
 excerpt: 'Collaborate more effectively with your team using our new real-time editing and commenting features.'
 date: 'March 22, 2025'
 author: 'David Wilson'
